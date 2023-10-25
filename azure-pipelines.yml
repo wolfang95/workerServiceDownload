@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo Hello, world!
+- script: echo Hello, world - There is a new push on repo main branch - Downloas service!
   displayName: 'Run a one-line script'
 
 - script: |
